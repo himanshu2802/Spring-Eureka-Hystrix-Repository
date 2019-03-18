@@ -12,6 +12,8 @@ public class EurekaServiceApplication {
 		
 		//Added comments
 		SpringApplication.run(EurekaServiceApplication.class, args);
+		//Adding sysOut
+		System.out.println("hello");
 	}
 
 }
